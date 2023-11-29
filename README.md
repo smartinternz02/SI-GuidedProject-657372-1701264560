@@ -1,1 +1,1 @@
-# -Virtual-Faculty-Buildathon-2023
+# Virtual-Faculty-Buildathon-2023
